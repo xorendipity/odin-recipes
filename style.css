@@ -1,0 +1,54 @@
+h1 {
+    color: rgb(62, 88, 80);  
+}
+
+#top-anchor {
+    text-align: center;
+}
+
+h3 {
+    color:rgb(71, 105, 216)
+}
+
+.h3.desc {
+    color:rgb(156, 104, 102);
+    text-align: center;
+}
+
+.p.desc {
+    text-align: center;
+}
+
+.homepage {
+    color: rgb(114, 41, 39);  
+}
+
+.anchor {
+    color:rgb(85, 85, 14)
+}
+
+.div.recipe {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div .button {
+    margin-left: 10%;
+    margin-right: 10%;
+    display: block;
+    border: 2px solid rgb(125, 181, 214)
+}
+
+.img.recipe {
+    height: 400px;
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.index.img {
+    height: 120px;
+}
+
