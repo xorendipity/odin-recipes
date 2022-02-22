@@ -10,6 +10,11 @@ h3 {
     color:rgb(71, 105, 216)
 }
 
+.index-list {
+    margin: 20px;
+    text-align: center;
+}
+
 .h3.desc {
     color:rgb(156, 104, 102);
     text-align: center;
